@@ -1,5 +1,6 @@
 # firstgit-demo
 First Git Repo
 <br>
-author - Sayyam Aggarwal
+Author - Sayyam Aggarwal
 
+This is the first Change
