@@ -1,4 +1,5 @@
 # firstgit-demo
-first git repoistory
+First Git Repo
 <br>
-author - sayyam aggarwal
+author - Sayyam Aggarwal
+
